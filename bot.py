@@ -29,4 +29,4 @@ async def on_message(message):
 
 
 
-bot.run("MTM0NjY2NzE3NjM4NzQxMTk4OQ.GKHa-G.nba4zsE4WHnze2J_cHRGX98Vs8V65LPpXMsim8")
+bot.run("token")
